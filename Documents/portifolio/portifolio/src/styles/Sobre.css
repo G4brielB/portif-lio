@@ -1,0 +1,28 @@
+.sobre{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+
+.sobre img{
+    height: 70%;
+    width: 300px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    object-fit: cover;
+}
+
+.sobre p {
+    margin-left: 15%;
+}
+
+@media(max-width: 600px){
+    .sobre img {
+        height: 300px;
+        width: 30%;
+    }
+
+    .sobre p {
+        margin-left: 10px;
+    }
+}

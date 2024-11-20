@@ -1,0 +1,28 @@
+.habilidades{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #ce6060;
+    align-items: center;
+    color: white;
+    overflow: hidden;
+}
+
+
+.icons-habilidades{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+}
+
+
+.habilidades h1 {
+    margin-top: 30px;
+}
+
+@media (max-width: 723px) {
+    .icons-habilidades{
+        height: 180px;
+    }
+}
