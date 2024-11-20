@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portif-lio/static/css/main.a98eae26.css",
+    "main.js": "/portif-lio/static/js/main.38e8cf89.js",
+    "static/js/453.9c226ca7.chunk.js": "/portif-lio/static/js/453.9c226ca7.chunk.js",
+    "static/media/img-desc.jpg": "/portif-lio/static/media/img-desc.efa20e72359aa7c3c6a7.jpg",
+    "static/media/relogio-digital.png": "/portif-lio/static/media/relogio-digital.74584e43420a01c9a8b1.png",
+    "static/media/HubotSans.ttf": "/portif-lio/static/media/HubotSans.fd3462bab5b0f3ad9e20.ttf",
+    "static/media/rery-importados.png": "/portif-lio/static/media/rery-importados.c2f5a683a2261cb18b0b.png",
+    "static/media/perfil.png": "/portif-lio/static/media/perfil.3027f33629ef9ac5d7f4.png",
+    "static/media/sistema-login.png": "/portif-lio/static/media/sistema-login.ae1a725cf5fea03e5b89.png",
+    "static/media/realidade-da-vida.png": "/portif-lio/static/media/realidade-da-vida.0f7ad43bafec71ec7732.png",
+    "index.html": "/portif-lio/index.html",
+    "main.a98eae26.css.map": "/portif-lio/static/css/main.a98eae26.css.map",
+    "main.38e8cf89.js.map": "/portif-lio/static/js/main.38e8cf89.js.map",
+    "453.9c226ca7.chunk.js.map": "/portif-lio/static/js/453.9c226ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a98eae26.css",
+    "static/js/main.38e8cf89.js"
+  ]
+}
